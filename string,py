@@ -1,0 +1,7 @@
+nome = str(input("digite seu nome: "))
+sobrenome = (input("digite seu sobrenome: "))
+
+print("tipo da variavel nome:",type(nome))
+print("tipo da variavel sobrenome:",type(sobrenome))
+print(f"nome e sobrenome: {nome} {sobrenome}")
+
