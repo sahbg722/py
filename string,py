@@ -4,4 +4,5 @@ sobrenome = (input("digite seu sobrenome: "))
 print("tipo da variavel nome:",type(nome))
 print("tipo da variavel sobrenome:",type(sobrenome))
 print(f"nome e sobrenome: {nome} {sobrenome}")
-
+print("o numero de letras do nome e:", len(nome))
+print("o numero de letras do meu nome e: ", len(sobrenome))
